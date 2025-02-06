@@ -1,36 +1,69 @@
 # Información Personal
-- Nombre completo:
-- Edad:
-- Ubicación:
-- Email:
-- LinkedIn:
-- GitHub:
+- Nombre completo: Eloy José Armao Mosquera
+- Edad: 34
+- Ubicación: Venezuela
+- Email: eloyjr.armao27@gmail.com
+- LinkedIn: https://www.linkedin.com/in/eloyjrarmao27/
+- GitHub: https://github.com/EloyArmaojr90
 - Portfolio:
 
 # Resumen Profesional
-[Breve descripción de tu perfil y objetivos profesionales]
+Científico de datos con licenciatura en ciencias matemáticas, ingenioso y dedicado, con excelentes
+habilidades analíticas y un compromiso demostrado de brindar excelentes servicios a los clientes, con
+capacidad de autogestionarme de manera efectiva a lo largo de proyectos independientes, así como
+colaborar en equipos productivos. Tengo experiencia trabajando con Python, SQL, Power BI, Docker y
+Google Cloud en proyectos. 
 
 # Habilidades Técnicas
-- Lenguajes:
-- Frameworks:
-- Bases de datos:
-- Herramientas:
-- Metodologías:
+- Lenguajes: Python, R, Matlab, SQL, Power BI
+- Frameworks: FastAPI, TensorFLow, Pytorch
+- Bases de datos: MySQL y PostgreSQL
+- Herramientas: Pandas, Numpy, Docker, Scikit-learn, Selenium, web Scraping
+- Metodologías: Scrum y Agile
 
 # Experiencia Laboral
-## [Empresa] - [Cargo]
-[Fecha inicio] - [Fecha fin]
-- Logros y responsabilidades
+Data Engineer. Mar. 2023 – Mar. 2024
+AAK TELE-SCIENCE, INC. 
+- Logré la actualización de las bases de datos, conectando de manera automatizada con cada fuente.
+- Convertí una API creada en FLASK a una API de FASTAPI, llevando algunos ENDPOINT de un
+tiempo de respuesta de 30 minutos a 30 segundos.
+- Asesoré en la parte de matemáticas y en códigos de Python en otros proyectos.
+- Creé bases de datos Big Data, ayudando a la empresa a tener una mejor calidad de datos y una
+mejor precisión para nuevos proyectos.
 
 # Proyectos Destacados
-## [Nombre del Proyecto]
-- Descripción:
-- Tecnologías:
-- Link:
+Integración de plataformas de Azure y Google Cloud con Databricks, Machine Learning y Streaming
+Datatón Factorizado 2023 Ago. 2023
+https://github.com/inteligencia-colectiva/datathon_inteligencia_colectiva
+- Colaboré con el equipo de ingenieria de datos para utilizar la plataforma databricks y realizar la 
+minería de datos sobre la información de productos de Amazon hospedada en un lago de datos de 
+Azure.
+- Implementamos un proceso de ETL para limpiar, transformar y cargar los datos limpios en Google 
+BigQuery.
+- Participé en el análisis de sentimientos y en el desarrollo de un sistema de recomendación para 
+recopilar información importante.
+- Realizamos el procesamiento y análisis de datos en tiempo real mediante streaming.
+
+Visualizador de series temporales de vista de página Feb. 2023
+freeCodeCamp, https://www.freecodecamp.org/.
+https://github.com/EloyArmaojr90/Page-View-Time-Series-Visualizer
+- Relalicé la ingesta los datos con el uso de la librería Pandas.
+- Creé diagramas de caja, gráficos de líneas y gráficos de barras utilizando Matplotlib y Seaborn.
+- Identifiqué patrones en las visualizaciones que me permitieron identificar el aumento anual y
+mensual de las visitas al sitio web.
+
+Ingeniería de Datos Feb. 2023
+Henry Bootcamp, Buenos Aires, Argentina. 
+https://github.com/EloyArmaojr90/Proyecto_peliculas_series_DATA-ENGINEER
+- Utilicé la librería Pandas para recopilar datos de varias plataformas de streaming.
+- Web Scraping y Scraping para rellenar valores nulos, con la herramienta BeautifulSoup y la librería
+requests
+- Realicé la limpieza de datos y la normalización del dataframe.
+- Creé y dockerizé una API de consulta.
 
 # Educación
-## [Institución]
-[Título] - [Año]
+- Data Scientist. Henry Bootcam. 2022 - 2023
+- Licenciado en ciencias matemáticas. Universidad Centro Occidental Lisandro Alvarado. 2007 - 2019
 
 # Idiomas
-- [Idioma]: [Nivel]
+ - Inglés A2.
